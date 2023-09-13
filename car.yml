@@ -3,5 +3,5 @@ car:
   model: "240"
   year: "1991"
   reg: NKP866
-  - attributes: blue
+  attributes: [blue]
     
