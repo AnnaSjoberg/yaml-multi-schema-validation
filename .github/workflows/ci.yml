@@ -21,7 +21,7 @@ jobs:
 
     - name: Validate Car YAML
       run: |
-        Schema validate -e -f car.yml -s schemas/schema_car.yml
+        schema validate -e -f car.yml -s schemas/schema_car.yml
 
     - name: Validate Computer YAML
       run: |
