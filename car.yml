@@ -1,2 +1,8 @@
 car:
   manufacturer: volvo
+  model: "240"
+  year: 1991
+  reg: NKP866
+  attributes:
+  - color: blue
+  - doors: 4
