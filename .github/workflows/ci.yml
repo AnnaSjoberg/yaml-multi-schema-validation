@@ -33,4 +33,5 @@ jobs:
 
     - name: Validate Schedule YAML
       run: |
-        schema validate -e -f schedule.yml schemas/schema_schedule.yml
+        schema validate -e -f schedule.yml -s schemas/schema_schedule.yml
+        
