@@ -1,8 +1,8 @@
 schedule:
-  year: 2023
+  year: "2023"
   program: java
   lessons:
     - date: "2022-02-01"
-      startTime: 08:00
-      endTime: 10:00
+#      startTime: 08:00
+ #     endTime: 10:00
       description: Advanced Object Oriented Programming
